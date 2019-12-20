@@ -1,0 +1,427 @@
+[
+    {
+        "brand": "0033121",
+        "brandname": "金豚PC",
+        "grade": "001"
+    },
+    {
+        "brand": "00333",
+        "brandname": "金川PC",
+        "grade": "001"
+    },
+    {
+        "brand": "6544",
+        "brandname": "金冠PC",
+        "grade": "001"
+    },
+    {
+        "brand": "698",
+        "brandname": "金田",
+        "grade": "001"
+    },
+    {
+        "brand": "8745",
+        "brandname": "金凤",
+        "grade": "001"
+    },
+    {
+        "brand": "9554",
+        "brandname": "金霸",
+        "grade": "001"
+    },
+    {
+        "brand": "A0001",
+        "brandname": "ABRA",
+        "grade": "003"
+    },
+    {
+        "brand": "A0002",
+        "brandname": "AE",
+        "grade": "002"
+    },
+    {
+        "brand": "A0003",
+        "brandname": "AESX",
+        "grade": "003"
+    },
+    {
+        "brand": "B0001",
+        "brandname": "BCH",
+        "grade": "002"
+    },
+    {
+        "brand": "B0002",
+        "brandname": "BIRLA",
+        "grade": "003"
+    },
+    {
+        "brand": "B0003",
+        "brandname": "BK",
+        "grade": "002"
+    },
+    {
+        "brand": "B0004",
+        "brandname": "BRX",
+        "grade": "002"
+    },
+    {
+        "brand": "B0006",
+        "brandname": "BVC",
+        "grade": "003"
+    },
+    {
+        "brand": "C0001",
+        "brandname": "CBM",
+        "grade": "002"
+    },
+    {
+        "brand": "C00010",
+        "brandname": "魏桥",
+        "grade": "003"
+    },
+    {
+        "brand": "C0002",
+        "brandname": "CCC-P",
+        "grade": "001"
+    },
+    {
+        "brand": "C0003",
+        "brandname": "CCCSB",
+        "grade": "003"
+    },
+    {
+        "brand": "C0004",
+        "brandname": "CCCSX",
+        "grade": "003"
+    },
+    {
+        "brand": "C0005",
+        "brandname": "CHUQUI",
+        "grade": "003"
+    },
+    {
+        "brand": "C0006",
+        "brandname": "CMCC",
+        "grade": "003"
+    },
+    {
+        "brand": "C0007",
+        "brandname": "COLHSI",
+        "grade": "003"
+    },
+    {
+        "brand": "C0008",
+        "brandname": "CBM-P",
+        "grade": "002"
+    },
+    {
+        "brand": "C0009",
+        "brandname": "COLLAHUASI",
+        "grade": "001"
+    },
+    {
+        "brand": "CS1",
+        "brandname": "测试T1",
+        "grade": "003"
+    },
+    {
+        "brand": "D0001",
+        "brandname": "DJ-A",
+        "grade": "001"
+    },
+    {
+        "brand": "E0001",
+        "brandname": "ENM",
+        "grade": "001"
+    },
+    {
+        "brand": "E0002",
+        "brandname": "ESOX",
+        "grade": "003"
+    },
+    {
+        "brand": "F0001",
+        "brandname": "FHG",
+        "grade": "002"
+    },
+    {
+        "brand": "F0002",
+        "brandname": "FMS",
+        "grade": "002"
+    },
+    {
+        "brand": "G0001",
+        "brandname": "GRESI",
+        "grade": "002"
+    },
+    {
+        "brand": "G0002",
+        "brandname": "贵冶",
+        "grade": "001"
+    },
+    {
+        "brand": "H0001",
+        "brandname": "HK",
+        "grade": "002"
+    },
+    {
+        "brand": "H0002",
+        "brandname": "HMG-B",
+        "grade": "001"
+    },
+    {
+        "brand": "H0003",
+        "brandname": "HMG-S",
+        "grade": "001"
+    },
+    {
+        "brand": "H0004",
+        "brandname": "HML",
+        "grade": "001"
+    },
+    {
+        "brand": "I0001",
+        "brandname": "ILO",
+        "grade": "001"
+    },
+    {
+        "brand": "I0002",
+        "brandname": "ISA",
+        "grade": "002"
+    },
+    {
+        "brand": "J0001",
+        "brandname": "JCC",
+        "grade": "002"
+    },
+    {
+        "brand": "J0002",
+        "brandname": "JNMC",
+        "grade": "001"
+    },
+    {
+        "brand": "J0003",
+        "brandname": "JTUN",
+        "grade": "003"
+    },
+    {
+        "brand": "J002",
+        "brandname": "金玺",
+        "grade": "001"
+    },
+    {
+        "brand": "K0001",
+        "brandname": "KUC",
+        "grade": "002"
+    },
+    {
+        "brand": "L0001",
+        "brandname": "LBF",
+        "grade": "003"
+    },
+    {
+        "brand": "L0002",
+        "brandname": "鲁方",
+        "grade": "001"
+    },
+    {
+        "brand": "M0001",
+        "brandname": "MB",
+        "grade": "003"
+    },
+    {
+        "brand": "M0002",
+        "brandname": "MCM",
+        "grade": "003"
+    },
+    {
+        "brand": "M0003",
+        "brandname": "MET",
+        "grade": "003"
+    },
+    {
+        "brand": "M0004",
+        "brandname": "MIC-P",
+        "grade": "003"
+    },
+    {
+        "brand": "M0005",
+        "brandname": "MIC-T",
+        "grade": "003"
+    },
+    {
+        "brand": "M0006",
+        "brandname": "MITSUB",
+        "grade": "001"
+    },
+    {
+        "brand": "M0007",
+        "brandname": "MV",
+        "grade": "003"
+    },
+    {
+        "brand": "M0009",
+        "brandname": "MITSUBUSHI",
+        "grade": "001"
+    },
+    {
+        "brand": "M008",
+        "brandname": "MOOK",
+        "grade": "003"
+    },
+    {
+        "brand": "N0001",
+        "brandname": "NA",
+        "grade": "002"
+    },
+    {
+        "brand": "N0002",
+        "brandname": "NORAND",
+        "grade": "002"
+    },
+    {
+        "brand": "N888",
+        "brandname": "NORILSK",
+        "grade": "003"
+    },
+    {
+        "brand": "O0001",
+        "brandname": "OLEN",
+        "grade": "002"
+    },
+    {
+        "brand": "O0002",
+        "brandname": "OLYDA",
+        "grade": "002"
+    },
+    {
+        "brand": "O0003",
+        "brandname": "ONSAN",
+        "grade": "002"
+    },
+    {
+        "brand": "O0004",
+        "brandname": "OSR",
+        "grade": "001"
+    },
+    {
+        "brand": "P0001",
+        "brandname": "P*D",
+        "grade": "002"
+    },
+    {
+        "brand": "P0002",
+        "brandname": "PIRDOP",
+        "grade": "002"
+    },
+    {
+        "brand": "P0003",
+        "brandname": "PSR",
+        "grade": "002"
+    },
+    {
+        "brand": "P0004",
+        "brandname": "PDMI",
+        "grade": "003"
+    },
+    {
+        "brand": "Q0001",
+        "brandname": "QB",
+        "grade": "003"
+    },
+    {
+        "brand": "R0001",
+        "brandname": "RT",
+        "grade": "003"
+    },
+    {
+        "brand": "S0001",
+        "brandname": "SMCV",
+        "grade": "003"
+    },
+    {
+        "brand": "S0002",
+        "brandname": "SPCCSX",
+        "grade": "003"
+    },
+    {
+        "brand": "S0003",
+        "brandname": "SPENCE",
+        "grade": "003"
+    },
+    {
+        "brand": "S0004",
+        "brandname": "SR-P",
+        "grade": "002"
+    },
+    {
+        "brand": "S0005",
+        "brandname": "STERLI",
+        "grade": "003"
+    },
+    {
+        "brand": "S0006",
+        "brandname": "SUMIKO",
+        "grade": "001"
+    },
+    {
+        "brand": "S0007",
+        "brandname": "上冶",
+        "grade": "001"
+    },
+    {
+        "brand": "T0001",
+        "brandname": "TAMANO",
+        "grade": "002"
+    },
+    {
+        "brand": "T0002",
+        "brandname": "TFENG",
+        "grade": "001"
+    },
+    {
+        "brand": "T0003",
+        "brandname": "铜冠",
+        "grade": "001"
+    },
+    {
+        "brand": "U0001",
+        "brandname": "UMMC",
+        "grade": "002"
+    },
+    {
+        "brand": "X0001",
+        "brandname": "祥光",
+        "grade": "002"
+    },
+    {
+        "brand": "Z00005",
+        "brandname": "中条山高纯",
+        "grade": "001"
+    },
+    {
+        "brand": "Z0001",
+        "brandname": "ZADIVA",
+        "grade": "003"
+    },
+    {
+        "brand": "Z0002",
+        "brandname": "ZIJIN",
+        "grade": "003"
+    },
+    {
+        "brand": "Z0003",
+        "brandname": "金兰",
+        "grade": "001"
+    },
+    {
+        "brand": "Z0004",
+        "brandname": "金凤",
+        "grade": "001"
+    },
+    {
+        "brand": "j001",
+        "brandname": "金豚",
+        "grade": "001"
+    }
+]
