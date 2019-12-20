@@ -20,8 +20,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
 }
-
--(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
+- (IBAction)buttonClick:(UIButton *)sender {
     NSArray *fileArray = (NSArray *)[self readLocalFileWithName:@"PX"];
     NSMutableArray *brandArray = [DSD_JQBrandModel mj_objectArrayWithKeyValuesArray:fileArray];
     
